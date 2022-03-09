@@ -1,0 +1,29 @@
+.pic
+{
+    padding: 10px;
+    outline:  5px solid black;
+    outline-offset: -10px;
+
+}
+
+.txt
+{
+    font-size: 40px;
+}
+
+.align
+{
+    position: absolute;
+    left: 53%;
+    height: 30px;
+    width: 60px;
+    
+}
+
+.align2
+{
+    position: absolute;
+    left: 47%;
+    height: 30px;
+    width: 60px;
+}

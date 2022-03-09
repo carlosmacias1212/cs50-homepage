@@ -1,0 +1,161 @@
+.con
+{
+    padding: 37px;
+    outline: groove darkred;
+    outline-offset: -37px;
+    float: right;
+    position: absolute;
+    top: 130px;
+    
+
+}
+
+.a
+{
+    
+    left: 20px;
+}
+
+.t
+{
+    left: 380px;
+}
+
+.th
+{
+    left: 760px;
+}
+
+.gg
+{
+    left: 1080px;
+}
+.title
+{
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    color: lightyellow;
+
+}
+
+.bd
+{
+    top: -5px;
+    z-index: -1;
+    position: absolute;
+}
+
+.v
+{
+
+   top: 540px;
+   height: 30px;
+   width: 50px;
+   position: absolute;
+}
+
+.v1
+{
+    left: 145px;
+}
+
+.v2
+{
+    left: 515px;
+}
+
+.v3
+{
+    left: 860px;
+}
+
+.v4
+{
+    left: 1190px;
+}
+
+.name
+{
+    position: absolute;
+    font-size: 20px;
+    Color: grey;
+}
+
+.namealex
+{
+    left: 105px;
+}
+
+.nametimur
+{
+    left: 510px;
+}
+
+.nameatilla
+{
+    left: 840px;
+}
+
+.namegenghis
+{
+    left: 1170px;
+}
+
+.counter
+{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 140px;
+}
+
+.ac
+{
+    left: 200px;
+   
+}
+
+.tc
+{
+    left: 550px;
+}
+
+.atc
+{
+    left: 900px;
+}
+
+.gc
+{
+    left: 1230px;
+}
+
+.b
+{
+    top: 540px;
+    height: 30px;
+    width: 50px;
+    position: absolute;
+    
+}
+
+.b1
+{
+    left: 200px;
+}
+
+.b2
+{
+    left: 570px;
+}
+
+.b3
+{
+    left: 915px;
+}
+
+.b4
+{
+    left: 1255px;
+}
